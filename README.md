@@ -6,3 +6,5 @@
 - 🔭 Developing hypercasual games since Feb. 2021
 - 🌱 Currently learning about tool development and VFX
 - 🎲 Fun fact: Can play board games until the end of time
+
+You can check my portfolio at https://mcemkobal.info/.
