@@ -1,10 +1,10 @@
 ### My name is M. Cem Kobal - aka captainafk 
 
-## Hypercasual Unity Developer
+## Unity XR Developer
 
 - ⚡ Professionally developing software since 2019
-- 🔭 Developing hypercasual games since Feb. 2021
-- 🌱 Currently learning about tool development and VFX
+- 🔭 Developed 30+ hypercasual games with +50k downloads
+- 🌱 Currently working on MRTK and HoloLens 2
 - 🎲 Fun fact: Can play board games until the end of time
 
 You can check my portfolio at https://mcemkobal.info/.
