@@ -3,7 +3,7 @@
 ## Unity XR Developer
 
 - ⚡ Professionally developing software since 2019
-- 🔭 Developed 30+ hypercasual games with +50k downloads
+- 🔭 Developed 30+ hypercasual games with 50k+ downloads
 - 🌱 Currently working on MRTK and HoloLens 2
 - 🎲 Fun fact: Can play board games until the end of time
 
